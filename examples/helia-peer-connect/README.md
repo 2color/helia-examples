@@ -4,19 +4,7 @@
   </a>
 </p>
 
-<h3 align="center"><b>Getting started with Helia</b></h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jlord/forkngo/gh-pages/badges/cobalt.png" width="200">
-  <br>
-  <a href="https://ipfs.github.io/helia/modules/helia.html">Explore the docs</a>
-  ·
-  <a href="https://codesandbox.io/">View Demo</a>
-  ·
-  <a href="https://github.com/ipfs-examples/helia-examples/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/ipfs-examples/helia-examples/issues">Request Feature/Example</a>
-</p>
+<h3 align="center"><b>Connecting Helia to a Kubo node</b></h3>
 
 ## Table of Contents
 
@@ -39,7 +27,6 @@
 
 ## About The Project
 
-- Read the [docs](https://ipfs.github.io/helia/modules/helia.html)
 - Look into other [examples](https://github.com/ipfs-examples/helia-examples) to learn how to spawn a Helia node in Node.js and in the Browser
 - Visit https://dweb-primer.ipfs.io to learn about IPFS and the concepts that underpin it
 - Head over to https://proto.school to take interactive tutorials that cover core IPFS APIs
