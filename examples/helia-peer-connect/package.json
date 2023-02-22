@@ -7,7 +7,7 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "ts-node --esm index.ts",
     "serve": "npm run start",
     "test": "node test.js"
   },
